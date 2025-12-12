@@ -19,7 +19,7 @@ I explore how streaming, audience, and campaign data can support **labels, manag
 - **Data & analysis**: Python (pandas, NumPy, scikit-learn), Jupyter/Colab, SQL, Visual Studio Code 
 - **Dashboards & BI**: Salesforce CRM Analytics, PowerBI, Tableau  
 - **Version control**: Git & GitHub  
-- **Focus**: music data, streaming analytics, AI projects, 
+- **Focus**: music data, streaming analytics, AI projects
 
 ---
 
