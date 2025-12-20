@@ -6,7 +6,7 @@ I’m Michelle — a music-obsessed data analyst exploring the intersection of *
 
 ### What I’m working on
 - 🎧 **Music intelligence projects** — artist performance, audience behavior, and recommendation analytics  
-- 📊 **Analytics & visualization** — turning messy metrics into clear, decision-ready views  
+- 📊 **Analytics & visualization** — turning messy metrics into storytelling views  
 - 🤖 **AI + workflow experiments** — exploring ways AI can support discovery, insights, and reduce repetitive work  
 
 ---
