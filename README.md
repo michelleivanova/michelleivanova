@@ -21,5 +21,5 @@ I’m Michelle — a music-obsessed data analyst exploring the intersection of *
 
 ### Projects you’ll see here
 - Artist & streaming performance analytics  
-- Recommendation / discovery experiments  
+- Recommendation System Analytics
 - Applied AI projects in the music space  
