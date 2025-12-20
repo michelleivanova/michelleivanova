@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Michelle — a music-obsessed data analyst exploring the intersection of **music, data, and AI.
+I’m Michelle — a music-obsessed data analyst exploring the intersection of **music, data, and AI**.
 
 ---
 
