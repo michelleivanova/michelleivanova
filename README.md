@@ -1,25 +1,22 @@
-## Hi there 👋
+Hi there 👋
+I'm Michelle — a music-obsessed data analyst and developer exploring the intersection of music, data, and AI.
+Founder of Ivanova Music Intelligence Studio, a small, studio-style practice building automated systems that help labels, management, and artist teams make clearer decisions with their data.
+I like building music data systems, pulling and analyzing streaming and audience data, and automating the stuff that should already be automated.
 
-I’m Michelle — a music-obsessed data analyst exploring the intersection of **music, data, and AI**.
+What I do
 
----
+🎧 Music intelligence systems, artist analytics, and streaming data pulls
+📊 Data pipelines, automated reporting, and music metadata enrichment
+🤖 AI-powered workflows and full-stack music SaaS development
 
-### What I’m working on
-- 🎧 **Music intelligence projects** — artist performance, audience behavior, and recommendation analytics  
-- 📊 **Analytics & visualization** — turning messy metrics into storytelling views  
-- 🤖 **AI + workflow experiments** — exploring ways AI can support discovery, insights, and reduce repetitive work  
 
----
+Tools & stack
 
-### Tools & stack
-- **Data & analysis:** Python (pandas, NumPy, scikit-learn), Jupyter/Colab, SQL, VS Code  
-- **Dashboards & BI:** Salesforce CRM Analytics, Power BI, Tableau  
-- **Version control:** Git & GitHub  
-- **Focus:** music data, streaming analytics, AI projects  
-
----
-
-### Projects you’ll see here
-- Artist & streaming performance analytics  
-- Recommendation System Analytics
-- Applied AI projects in the music space  
+Languages: Python, TypeScript, JavaScript, SQL, PostgreSQL, SQLite
+Frontend: React, Next.js, Tailwind CSS, shadcn/ui
+Backend: Node.js, Express, Prisma, REST APIs, OAuth 2.0
+Data: pandas, NumPy, scikit-learn, Jupyter/Colab
+AI: LLM Prompt Engineering, AI Agent Development, Claude API, ChatGPT API
+Infra: Docker, CI/CD (GitHub Actions), Vercel, Railway, Automated Deployment Pipelines
+BI: Salesforce CRM, Salesforce Lightning, Microsoft Power BI, Tableau
+Music APIs: Spotify, Soundcharts, MusicBrainz
