@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm Michelle — a music-obsessed data analyst and developer exploring the intersection of **music, data, and AI**.
 
-I want to help labels, management, and artist teams make clearer decisions with their data.
-
 ---
 
 ### What I do
