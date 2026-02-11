@@ -1,9 +1,7 @@
 ## Hi there 👋
 I'm Michelle — a music-obsessed data analyst and developer exploring the intersection of **music, data, and AI**.
 
-Founder of **Ivanova Music Intelligence Studio**, a small, studio-style practice building automated systems that help labels, management, and artist teams make clearer decisions with their data.
-
-I like building music data systems, pulling and analyzing streaming and audience data, and automating the stuff that should already be automated.
+I want to help labels, management, and artist teams make clearer decisions with their data.
 
 ---
 
