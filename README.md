@@ -3,9 +3,9 @@
 ---
 
 ### What I do
-- 🎧 Music intelligence systems, artist analytics, and streaming data pulls
-- 📊 Data pipelines, automated reporting, and music metadata enrichment
-- 🤖 AI-powered workflows and full-stack music SaaS development
+- 🎧 Intelligence systems, analytics, and streaming data pulls
+- 📊 Data pipelines, automated reporting, and metadata enrichment
+- 🤖 AI-powered workflows and full-stack SaaS development
 
 ---
 
