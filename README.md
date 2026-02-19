@@ -1,7 +1,5 @@
 # Michelle Ivanova
 
-**Marketing analyst who builds the systems other marketers wish existed.**
-
 I work at the intersection of data and AI — turning manual workflows 
 into automated pipelines and raw data into decisions that actually move.
 
