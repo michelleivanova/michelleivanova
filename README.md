@@ -2,7 +2,7 @@
 
 **Marketing analyst who builds the systems other marketers wish existed.**
 
-I work at the intersection of data, AI, and music — turning manual workflows 
+I work at the intersection of data and AI — turning manual workflows 
 into automated pipelines and raw data into decisions that actually move.
 
 Currently building **Momentum**, an AI-powered social media automation platform 
@@ -31,5 +31,5 @@ for content creators and agencies.
 
 ### 📌 Currently
 - 🚀 Building Momentum (SaaS)
-- 🎧 Open to remote roles in music tech, AI marketing & data systems
+- 🎧 Open to remote roles in tech, AI marketing & data systems
 - 📍 linkedin.com/in/michelle-ivanova
