@@ -1,4 +1,4 @@
-Michelle Ivanova
+Hi, I'm Michelle!
 
 I build data-driven systems and AI-assisted products.
 
