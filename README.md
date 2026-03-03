@@ -4,8 +4,6 @@ I build data-driven systems and AI-assisted products.
 
 My work focuses on turning manual workflows into automated pipelines — and raw data into tools that drive real decisions.
 
-Currently building Momentum — an AI-powered social media automation platform for creators and agencies.
-
 ⸻
 
 🎵 Selected Projects (Music & Data Systems)
