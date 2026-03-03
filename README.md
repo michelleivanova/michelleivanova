@@ -1,6 +1,6 @@
 Hi, I'm Michelle!
 
-I build data-driven systems and AI-assisted products.
+I am a marketer who builds data-driven systems and AI-assisted products.
 
 My work focuses on turning manual workflows into automated pipelines — and raw data into tools that drive real decisions.
 
