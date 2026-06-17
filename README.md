@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing, data, automation, and design" />
+  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation + design" />
 </div>
 
 ## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
