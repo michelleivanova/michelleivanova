@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation + culture" />
+  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation + design" />
 </div>
 
-## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me!
+## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
 <img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketing + data builder with playlist-brain and product taste<br />
-<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning messy workflows into systems with main-character energy<br />
+<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning messy workflows into systems that keep the plot moving<br />
 <img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI tools for music, creators, campaigns, and internet culture<br />
 
-## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; featured drops
+## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; featured projects
 
 | name | description |
 |------|-------------|
@@ -21,7 +21,7 @@
 | [`underground-artist-radar`](https://github.com/michelleivanova/underground-artist-radar) | artist discovery tool for finding the next breakout before they hit your feed |
 | [`music-data-projects`](https://github.com/michelleivanova/music-data-projects) | Python notebooks on streaming trends, artist metrics, and music industry patterns |
 
-## <img src="./images/toolbox.svg" height="24" style="vertical-align: middle;" /> &nbsp; starter pack
+## <img src="./images/toolbox.svg" height="24" style="vertical-align: middle;" /> &nbsp; toolbox
 
 ![Python](https://img.shields.io/badge/Python-232323?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8BB8D8?style=flat-square&logo=postgresql&logoColor=232323)
@@ -36,7 +36,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-BBD6F2?style=flat-square&logo=githubactions&logoColor=232323)
 ![Docker](https://img.shields.io/badge/Docker-C7E2D5?style=flat-square&logo=docker&logoColor=232323)
 
-## <img src="./images/link.svg" height="24" style="vertical-align: middle;" /> &nbsp; end credits
+## <img src="./images/link.svg" height="24" style="vertical-align: middle;" /> &nbsp; connect
 
 
 <img src="./images/linkedin.svg" height="20" style="vertical-align: middle;" /> &nbsp; linkedin: [`michelle-ivanova`](https://www.linkedin.com/in/michelle-ivanova) <br />
