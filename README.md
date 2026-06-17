@@ -34,7 +34,6 @@
 
 ## <img src="./images/link.svg" height="24" style="vertical-align: middle;" /> &nbsp; connect
 
-feel free to fork, remix, or build from anything public here. credit is appreciated if something turns into a shipped project.
 
 <img src="./images/linkedin.svg" height="20" style="vertical-align: middle;" /> &nbsp; linkedin: [`michelle-ivanova`](https://www.linkedin.com/in/michelle-ivanova) <br />
 <img src="./images/site.svg" height="20" style="vertical-align: middle;" /> &nbsp; portfolio: [`michelleivanova.lovable.app`](https://michelleivanova.lovable.app)
