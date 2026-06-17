@@ -3,23 +3,23 @@
 </div>
 
 ## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
-<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketing + data builder with playlist-brain and product taste<br />
-<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning messy workflows into systems that keep the plot moving<br />
-<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI tools for music, creators, campaigns, and internet culture<br />
+<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer and builder blending strategy, data, design, and automation<br />
+<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; creating systems that simplify workflows and make teams move faster<br />
+<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI and data tools across music, creator growth, and campaign operations<br />
 
 ## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; featured projects
 
 | name | description |
 |------|-------------|
-| [`Bridge`](https://klab-hazel.vercel.app/) | fanbase crossover tool for creator reports, music enrichment, and Meta-ready targeting |
-| [`EasyTailor`](https://easytailor.lovable.app) | AI job-search workspace for resumes, applications, interviews, and answer prep |
-| [`Momentum`](https://momentumgrowth.lovable.app) | creator growth ops hub for content planning, campaigns, analytics, and publishing |
-| [`din-tai-fung-bot`](https://github.com/michelleivanova/din-tai-fung-bot) | reservation bot because dinner plans deserve automation too |
-| [`music-analytics-and-anomaly-detection-system`](https://github.com/michelleivanova/music-analytics-and-anomaly-detection-system) | streaming momentum engine for spotting artist signals before the timeline catches up |
-| [`Catalog-Metadata-QA---Enrichment-Pipeline-Project`](https://github.com/michelleivanova/Catalog-Metadata-QA---Enrichment-Pipeline-Project) | metadata cleanup pipeline for making messy catalogs behave |
-| [`catalogwatch-ai-agent`](https://github.com/michelleivanova/catalogwatch-ai-agent) | AI agent for catalog research, copyright windows, and ownership clues |
-| [`underground-artist-radar`](https://github.com/michelleivanova/underground-artist-radar) | artist discovery tool for finding the next breakout before they hit your feed |
-| [`music-data-projects`](https://github.com/michelleivanova/music-data-projects) | Python notebooks on streaming trends, artist metrics, and music industry patterns |
+| [`Bridge`](https://klab-hazel.vercel.app/) | Instagram audience crossover intelligence for creator reports, music enrichment, and Meta-ready targeting |
+| [`EasyTailor`](https://easytailor.lovable.app) | AI job-search workspace for resume tailoring, application tracking, interview prep, and answer generation |
+| [`Momentum`](https://momentumgrowth.lovable.app) | growth operations platform for content planning, campaign management, analytics, and publishing workflows |
+| [`din-tai-fung-bot`](https://github.com/michelleivanova/din-tai-fung-bot) | reservation automation bot using Python, Playwright, and GitHub Actions |
+| [`music-analytics-and-anomaly-detection-system`](https://github.com/michelleivanova/music-analytics-and-anomaly-detection-system) | streaming analytics engine for momentum, rolling baselines, and anomaly detection |
+| [`Catalog-Metadata-QA---Enrichment-Pipeline-Project`](https://github.com/michelleivanova/Catalog-Metadata-QA---Enrichment-Pipeline-Project) | metadata QA and enrichment pipeline for catalog cleanup |
+| [`catalogwatch-ai-agent`](https://github.com/michelleivanova/catalogwatch-ai-agent) | AI agent for catalog research and copyright termination intelligence |
+| [`underground-artist-radar`](https://github.com/michelleivanova/underground-artist-radar) | discovery tool for emerging artists using streaming and social signals |
+| [`music-data-projects`](https://github.com/michelleivanova/music-data-projects) | Python data projects exploring streaming trends, artist metrics, and industry patterns |
 
 ## <img src="./images/toolbox.svg" height="24" style="vertical-align: middle;" /> &nbsp; toolbox
 
