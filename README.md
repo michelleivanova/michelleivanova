@@ -6,7 +6,6 @@
 <img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer who builds data-driven systems and AI-assisted products<br />
 <img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning manual workflows into automated pipelines<br />
 <img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; focused on creating systems for automation and simplifying workflows<br />
-<img src="./images/pin.svg" height="20" style="vertical-align: middle;" /> &nbsp; open to remote roles in tech, AI marketing, and data systems
 
 ## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; fav repos
 
