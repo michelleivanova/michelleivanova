@@ -2,7 +2,7 @@
   <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation + culture" />
 </div>
 
-## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; the plot
+## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me!
 <img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketing + data builder with playlist-brain and product taste<br />
 <img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning messy workflows into systems with main-character energy<br />
 <img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI tools for music, creators, campaigns, and internet culture<br />
