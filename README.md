@@ -5,13 +5,13 @@
 ## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
 <img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer and builder blending strategy, data, design, and automation<br />
 <img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; creating systems that simplify workflows and make teams move faster<br />
-<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI and data tools across music, creator growth, and campaign operations<br />
+<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI and data tools across marketing, operations, creator growth, and decision systems<br />
 
 ## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; featured projects
 
 | name | description |
 |------|-------------|
-| [`Bridge`](https://klab-hazel.vercel.app/) | Instagram audience crossover intelligence for creator reports, music enrichment, and Meta-ready targeting |
+| [`Bridge`](https://klab-hazel.vercel.app/) | Instagram audience crossover intelligence for creator reports, audience enrichment, and Meta-ready targeting |
 | [`EasyTailor`](https://easytailor.lovable.app) | AI job-search workspace for resume tailoring, application tracking, interview prep, and answer generation |
 | [`Momentum`](https://momentumgrowth.lovable.app) | growth operations platform for content planning, campaign management, analytics, and publishing workflows |
 | [`din-tai-fung-bot`](https://github.com/michelleivanova/din-tai-fung-bot) | reservation automation bot using Python, Playwright, and GitHub Actions |
