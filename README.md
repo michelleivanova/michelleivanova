@@ -1,20 +1,25 @@
 <div align="center">
-  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing automation, AI products, and music data systems" />
+  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing, data, automation, and design" />
 </div>
 
 ## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
-<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer who builds data-driven systems and AI-assisted products<br />
-<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning manual workflows into automated pipelines<br />
-<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; focused on creating systems for automation and simplifying workflows<br />
+<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer and builder blending strategy, data, design, and automation<br />
+<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; creating systems that simplify workflows and make teams move faster<br />
+<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI and data tools across music, creator growth, and campaign operations<br />
 
-## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; fav repos
+## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; featured projects
 
 | name | description |
 |------|-------------|
-| [`din-tai-fung-bot`](https://github.com/michelleivanova/din-tai-fung-bot) | automation bot project with a practical, real-world workflow |
+| [`Bridge`](https://klab-hazel.vercel.app/) | Instagram audience crossover intelligence for creator reports, music enrichment, and Meta-ready targeting |
+| [`EasyTailor`](https://easytailor.lovable.app) | AI job-search workspace for resume tailoring, application tracking, interview prep, and answer generation |
+| [`Momentum`](https://momentumgrowth.lovable.app) | growth operations platform for content planning, campaign management, analytics, and publishing workflows |
+| [`din-tai-fung-bot`](https://github.com/michelleivanova/din-tai-fung-bot) | reservation automation bot using Python, Playwright, and GitHub Actions |
 | [`music-analytics-and-anomaly-detection-system`](https://github.com/michelleivanova/music-analytics-and-anomaly-detection-system) | streaming analytics engine for momentum, rolling baselines, and anomaly detection |
-| [`catalogwatch-ai-agent`](https://github.com/michelleivanova/catalogwatch-ai-agent) | AI agent for catalog research and copyright termination intelligence |
 | [`Catalog-Metadata-QA---Enrichment-Pipeline-Project`](https://github.com/michelleivanova/Catalog-Metadata-QA---Enrichment-Pipeline-Project) | metadata QA and enrichment pipeline for catalog cleanup |
+| [`catalogwatch-ai-agent`](https://github.com/michelleivanova/catalogwatch-ai-agent) | AI agent for catalog research and copyright termination intelligence |
+| [`underground-artist-radar`](https://github.com/michelleivanova/underground-artist-radar) | discovery tool for emerging artists using streaming and social signals |
+| [`music-data-projects`](https://github.com/michelleivanova/music-data-projects) | Python data projects exploring streaming trends, artist metrics, and industry patterns |
 
 ## <img src="./images/toolbox.svg" height="24" style="vertical-align: middle;" /> &nbsp; toolbox
 
