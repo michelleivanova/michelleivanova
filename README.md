@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation + design" />
+  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation" />
 </div>
 
 ## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
-<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer and builder blending strategy, data, design, and automation<br />
+<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer and builder blending strategy, data, and automation<br />
 <img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; creating systems that simplify workflows and make teams move faster<br />
 <img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI and data tools across marketing, operations, creator growth, and decision systems<br />
 
