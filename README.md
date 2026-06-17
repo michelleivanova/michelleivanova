@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation + design" />
+  <img src="./images/readme_banner.svg" alt="Michelle Ivanova - marketing + data + automation + culture" />
 </div>
 
-## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
-<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketer and builder blending strategy, data, design, and automation<br />
-<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; creating systems that simplify workflows and make teams move faster<br />
-<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI and data tools across music, creator growth, and campaign operations<br />
+## <img src="./images/sparkle.svg" height="24" style="vertical-align: middle;" /> &nbsp; the plot
+<img src="./images/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; marketing + data builder with playlist-brain and product taste<br />
+<img src="./images/robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning messy workflows into systems with main-character energy<br />
+<img src="./images/headphones.svg" height="20" style="vertical-align: middle;" /> &nbsp; building AI tools for music, creators, campaigns, and internet culture<br />
 
-## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; featured projects
+## <img src="./images/folder.svg" height="24" style="vertical-align: middle;" /> &nbsp; featured drops
 
 | name | description |
 |------|-------------|
-| [`Bridge`](https://klab-hazel.vercel.app/) | Instagram audience crossover intelligence for creator reports, music enrichment, and Meta-ready targeting |
-| [`EasyTailor`](https://easytailor.lovable.app) | AI job-search workspace for resume tailoring, application tracking, interview prep, and answer generation |
-| [`Momentum`](https://momentumgrowth.lovable.app) | growth operations platform for content planning, campaign management, analytics, and publishing workflows |
-| [`din-tai-fung-bot`](https://github.com/michelleivanova/din-tai-fung-bot) | reservation automation bot using Python, Playwright, and GitHub Actions |
-| [`music-analytics-and-anomaly-detection-system`](https://github.com/michelleivanova/music-analytics-and-anomaly-detection-system) | streaming analytics engine for momentum, rolling baselines, and anomaly detection |
-| [`Catalog-Metadata-QA---Enrichment-Pipeline-Project`](https://github.com/michelleivanova/Catalog-Metadata-QA---Enrichment-Pipeline-Project) | metadata QA and enrichment pipeline for catalog cleanup |
-| [`catalogwatch-ai-agent`](https://github.com/michelleivanova/catalogwatch-ai-agent) | AI agent for catalog research and copyright termination intelligence |
-| [`underground-artist-radar`](https://github.com/michelleivanova/underground-artist-radar) | discovery tool for emerging artists using streaming and social signals |
-| [`music-data-projects`](https://github.com/michelleivanova/music-data-projects) | Python data projects exploring streaming trends, artist metrics, and industry patterns |
+| [`Bridge`](https://klab-hazel.vercel.app/) | fanbase crossover tool for creator reports, music enrichment, and Meta-ready targeting |
+| [`EasyTailor`](https://easytailor.lovable.app) | AI job-search workspace for resumes, applications, interviews, and answer prep |
+| [`Momentum`](https://momentumgrowth.lovable.app) | creator growth ops hub for content planning, campaigns, analytics, and publishing |
+| [`din-tai-fung-bot`](https://github.com/michelleivanova/din-tai-fung-bot) | reservation bot because dinner plans deserve automation too |
+| [`music-analytics-and-anomaly-detection-system`](https://github.com/michelleivanova/music-analytics-and-anomaly-detection-system) | streaming momentum engine for spotting artist signals before the timeline catches up |
+| [`Catalog-Metadata-QA---Enrichment-Pipeline-Project`](https://github.com/michelleivanova/Catalog-Metadata-QA---Enrichment-Pipeline-Project) | metadata cleanup pipeline for making messy catalogs behave |
+| [`catalogwatch-ai-agent`](https://github.com/michelleivanova/catalogwatch-ai-agent) | AI agent for catalog research, copyright windows, and ownership clues |
+| [`underground-artist-radar`](https://github.com/michelleivanova/underground-artist-radar) | artist discovery tool for finding the next breakout before they hit your feed |
+| [`music-data-projects`](https://github.com/michelleivanova/music-data-projects) | Python notebooks on streaming trends, artist metrics, and music industry patterns |
 
-## <img src="./images/toolbox.svg" height="24" style="vertical-align: middle;" /> &nbsp; toolbox
+## <img src="./images/toolbox.svg" height="24" style="vertical-align: middle;" /> &nbsp; starter pack
 
 ![Python](https://img.shields.io/badge/Python-232323?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8BB8D8?style=flat-square&logo=postgresql&logoColor=232323)
@@ -36,7 +36,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-BBD6F2?style=flat-square&logo=githubactions&logoColor=232323)
 ![Docker](https://img.shields.io/badge/Docker-C7E2D5?style=flat-square&logo=docker&logoColor=232323)
 
-## <img src="./images/link.svg" height="24" style="vertical-align: middle;" /> &nbsp; connect
+## <img src="./images/link.svg" height="24" style="vertical-align: middle;" /> &nbsp; end credits
 
 
 <img src="./images/linkedin.svg" height="20" style="vertical-align: middle;" /> &nbsp; linkedin: [`michelle-ivanova`](https://www.linkedin.com/in/michelle-ivanova) <br />
